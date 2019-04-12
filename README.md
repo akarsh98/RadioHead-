@@ -14,7 +14,8 @@ You can reffer to some differences of the LoRa modules available in the market:
 
 You must check out [LCSC](http://lcsc.com/?href=Arkash&source=referral) for ordering PCBs online for cheap!
 
-You get good quality electronic components shipped to your doorstep for good pricing.
-Sign up today and get $8 off on your first order: [REGISTER HERE TO GET 8$ OFF](http://lcsc.com/?href=Arkash&source=referral)
+You must check out [JLCPCB](https://jlcpcb.com/m) for ordering PCBs online for cheap!
 
-![alt text](https://github.com/akarsh98/RadioHead/blob/master/SCREENSHOTS/RFM98.JPG?raw=true)
+You get 10 good quality PCBs manufactured and shipped to your doorstep for 2$ and some shipping. You will also get a discount on shipping on your first order. To design your own PCB head over to [easyEDA](https://easyeda.com/), once that is done upload your Gerber files onto [JLCPCB](https://jlcpcb.com/m) to get them manufactured with good quality and quick turnaround time.
+
+![alt text](https://github.com/akarsh98/DFRobot-LoRa-Firebeetle-Code/blob/master/SCREENSHOTS/JLCFULL.jpg?raw=true)
